@@ -1,12 +1,12 @@
 anim10.py
 =========
 
-Animation library for python 3. It is port of kikito's
+Animation library for python 3. It is a port of kikito's
 [anim8 library](https://github.com/kikito/anim8).
 
 Documentation
 =============
-I am very sorry, but documentation is not ready yet. You can see
+I am very sorry, but the documentation is not ready yet. You can see
 the documentation in the source code of the anim10.py python file.
 Also, you can view docs in the anim8
 [README.md](https://github.com/kikito/anim8/blob/master/README.md).
